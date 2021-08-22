@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/8983173/130322857-185831e2-f041-46eb-a17f-0a69d066c4e5.png" alt="Gotenberg Logo" width="150" height="150" />
+    <img src="https://user-images.githubusercontent.com/8983173/130364124-cb43809b-d7d5-4e19-a6c6-39547f016281.png" alt="Gotenberg Logo" width="150" height="150" />
 <h3 align="center">Awesome Gotenberg</h3>
 <p align="center">A curated list of awesome things related to Gotenberg</p>
 <p align="center">
