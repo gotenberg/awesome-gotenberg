@@ -34,4 +34,4 @@
 * [Gotenberg's documentation](https://gotenberg.dev)
 * [Gotenberg's GitHub organization](https://github.com/gotenberg)
 * [Author's twitter](https://twitter.com/gulnap)
-* [Grafikart's tutorial](https://grafikart.fr/tutoriels/gotenberg-php-pdf-1157) - Gotenberg **5.x** ⚠️
+* [Grafikart's tutorial](https://grafikart.fr/tutoriels/gotenberg-php-pdf-1157) 🇫🇷 - Gotenberg **5.x** ⚠️
