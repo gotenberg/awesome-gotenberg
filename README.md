@@ -16,6 +16,7 @@
 
 * [Clients](#clients)
 * [Modules](#modules)
+* [Users](#users)
 * [Resources](#resources)
 
 ## Clients
@@ -30,6 +31,10 @@
 ## Modules
 
 > None, for now!
+
+## Users
+
+* [jonaswinkler/parerless-ng](https://github.com/jonaswinkler/paperless-ng) - an application that indexes your scanned documents and allows you to easily search for documents and store metadata alongside your documents.
 
 ## Resources
 
