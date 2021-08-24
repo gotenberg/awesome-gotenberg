@@ -21,6 +21,8 @@
 ## Clients
 
 * [ChangemakerStudios/GotenbergSharpApiClient](https://github.com/ChangemakerStudios/GotenbergSharpApiClient) - Gotenberg **6.x** ⚠️
+* [EC-Nordbund/docx-templates-to-pdf](https://github.com/EC-Nordbund/docx-templates-to-pdf) - Gotenberg **6.x** ⚠️
+* [spacetab-io/gotenbserg-sdk-php](https://github.com/spacetab-io/gotenberg-sdk-php) - Gotenberg **6.x** ⚠️
 * [thecodingmachine/gotenberg-go-client](https://github.com/thecodingmachine/gotenberg-go-client) - Gotenberg **6.x** ⚠️
 * [thecodingmachine/gotenberg-php-client](https://github.com/thecodingmachine/gotenberg-php-client) - Gotenberg **6.x** ⚠️
 * [yumauri/gotenberg-js-client](https://github.com/yumauri/gotenberg-js-client) - Gotenberg **6.x** ⚠️
