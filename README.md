@@ -34,7 +34,7 @@
 
 ## Users
 
-* [jonaswinkler/parerless-ng](https://github.com/jonaswinkler/paperless-ng) - an application that indexes your scanned documents and allows you to easily search for documents and store metadata alongside your documents.
+* [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - an application that indexes your scanned documents and allows you to easily search for documents and store metadata alongside your documents.
 
 ## Resources
 
