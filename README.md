@@ -36,6 +36,7 @@
 ## Applications
 
 * [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - an application that indexes your scanned documents and allows you to easily search for documents and store metadata alongside your documents.
+* [SCM-Manager](https://scm-manager.org/) - an application to share your Git, Mercurial and Subversion repositories, with a [Gotenberg](https://scm-manager.org/plugins/scm-gotenberg-plugin/) plugin. See also their [blog post](https://scm-manager.org/blog/posts/2021-11-17-scm-manager-2-27-0/).
 
 ## Resources
 
