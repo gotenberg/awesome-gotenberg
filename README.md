@@ -32,7 +32,7 @@
 
 ## Modules
 
-> None, for now!
+* [Gotenberg with a Ghostscript PDF engine](https://github.com/Vrex123/gotenberg-ghostscript).
 
 ## Applications
 
