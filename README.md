@@ -24,8 +24,8 @@
 * 🚀 [PHP - gotenberg/gotenberg-php](https://github.com/gotenberg/gotenberg-php)
 * 🚀 [Deno - EC-Nordbund/gotenberg](https://github.com/EC-Nordbund/gotenberg)
 * 🚀 [TypeScript - cherfia/chromiumly](https://github.com/cherfia/chromiumly)
+* 🚀 [C# - ChangemakerStudios/GotenbergSharpApiClient](https://github.com/ChangemakerStudios/GotenbergSharpApiClient)
 * [JavaScript/TypeScript - yumauri/gotenberg-js-client](https://github.com/yumauri/gotenberg-js-client) - Gotenberg **6.x** ⚠️
-* [C# - ChangemakerStudios/GotenbergSharpApiClient](https://github.com/ChangemakerStudios/GotenbergSharpApiClient) - Gotenberg **6.x** ⚠️
 * [Go - thecodingmachine/gotenberg-go-client](https://github.com/thecodingmachine/gotenberg-go-client) - Gotenberg **6.x** ⚠️
 * [PHP - thecodingmachine/gotenberg-php-client](https://github.com/thecodingmachine/gotenberg-php-client) - Gotenberg **6.x** ⚠️
 * [PHP - spacetab-io/gotenbserg-sdk-php](https://github.com/spacetab-io/gotenberg-sdk-php) - Gotenberg **6.x** ⚠️
