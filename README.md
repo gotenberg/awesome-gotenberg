@@ -54,3 +54,4 @@
 * [Author's twitter](https://twitter.com/gulnap)
 * [Grafikart's tutorial](https://grafikart.fr/tutoriels/gotenberg-php-pdf-1157) 🇫🇷 - Gotenberg **5.x** ⚠️
 * [ardas-it.com - How to Preview Document or File in a Browser for SaaS](https://ardas-it.com/how-to-preview-document-or-file-in-a-browser-for-saas)
+* [MaikuMori/helm-charts](https://github.com/MaikuMori/helm-charts) - A Gotenberg helm chart, also available on [ArtifactHub](https://artifacthub.io/packages/helm/maikumori/gotenberg)
