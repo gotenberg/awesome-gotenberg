@@ -46,6 +46,7 @@
 * [SCM-Manager](https://scm-manager.org/) - an application to share and manage your Git, Mercurial and Subversion repositories, with a [Gotenberg](https://scm-manager.org/plugins/scm-gotenberg-plugin/) plugin. See also their [blog post](https://scm-manager.org/blog/posts/2021-11-17-scm-manager-2-27-0/).
 * [Corteza](https://cortezaproject.org/) - a free, open-source, Low Code platform for building your organisation’s key applications. They use [Gotenberg](https://docs.cortezaproject.org/corteza-docs/2021.9/devops-guide/extension-requirements/pdf-renderer.html) for PDF rendering.
 * [papihack/document-templating-service](https://github.com/PapiHack/document-templating-service) - a lightweight microservice for processing your documents, powered by a templating engine for injecting variables defined in it and use Gotenberg for PDF rendering.
+- [ShipSaaS/DocKing](https://github.com/shipsaas/docking) - an open-source microservice to manage document templates & render PDFs for your apps.
 
 ## Resources
 
