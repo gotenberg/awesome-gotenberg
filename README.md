@@ -25,6 +25,7 @@
 * 🚀 [Deno - EC-Nordbund/gotenberg](https://github.com/EC-Nordbund/gotenberg)
 * 🚀 [TypeScript - cherfia/chromiumly](https://github.com/cherfia/chromiumly)
 * 🚀 [C# - ChangemakerStudios/GotenbergSharpApiClient](https://github.com/ChangemakerStudios/GotenbergSharpApiClient)
+* 🚀 [Ruby - sanzstez/gotenberg-ruby](https://github.com/sanzstez/gotenberg-ruby)
 * 🚀 [Ruby - jbd0101/ruby-gotenberg-client](https://github.com/jbd0101/ruby-gotenberg-client)
 * 🚀 [Java - cherfia/jotenberg](https://github.com/cherfia/jotenberg)
 * [JavaScript/TypeScript - yumauri/gotenberg-js-client](https://github.com/yumauri/gotenberg-js-client) - Gotenberg **6.x** ⚠️
