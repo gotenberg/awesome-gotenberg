@@ -29,6 +29,7 @@
 * 🚀 [Ruby - jbd0101/ruby-gotenberg-client](https://github.com/jbd0101/ruby-gotenberg-client)
 * 🚀 [Java - cherfia/jotenberg](https://github.com/cherfia/jotenberg)
 * 🚀 [Kotlin - marrek13/kotenberg](https://github.com/marrek13/kotenberg)
+* 🚀 [Go - dcaraxes/gotenberg-go-client](https://github.com/dcaraxes/gotenberg-go-client)
 * [JavaScript/TypeScript - yumauri/gotenberg-js-client](https://github.com/yumauri/gotenberg-js-client) - Gotenberg **6.x** ⚠️
 * [Go - thecodingmachine/gotenberg-go-client](https://github.com/thecodingmachine/gotenberg-go-client) - Gotenberg **6.x** ⚠️
 * [PHP - thecodingmachine/gotenberg-php-client](https://github.com/thecodingmachine/gotenberg-php-client) - Gotenberg **6.x** ⚠️
