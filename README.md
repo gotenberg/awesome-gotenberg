@@ -31,6 +31,7 @@
 * 🚀 [Kotlin - marrek13/kotenberg](https://github.com/marrek13/kotenberg)
 * [JavaScript/TypeScript - yumauri/gotenberg-js-client](https://github.com/yumauri/gotenberg-js-client) - Gotenberg **6.x** ⚠️
 * [Go - thecodingmachine/gotenberg-go-client](https://github.com/thecodingmachine/gotenberg-go-client) - Gotenberg **6.x** ⚠️
+* [Go - dcaraxes/gotenberg-go-client](https://github.com/dcaraxes/gotenberg-go-client) - Gotenberg **8.x**
 * [PHP - thecodingmachine/gotenberg-php-client](https://github.com/thecodingmachine/gotenberg-php-client) - Gotenberg **6.x** ⚠️
 * [PHP - spacetab-io/gotenbserg-sdk-php](https://github.com/spacetab-io/gotenberg-sdk-php) - Gotenberg **6.x** ⚠️
 * [Word Document Template to PDF - EC-Nordbund/docx-templates-to-pdf](https://github.com/EC-Nordbund/docx-templates-to-pdf) - Gotenberg **6.x** ⚠️
