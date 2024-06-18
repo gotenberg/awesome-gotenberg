@@ -10,7 +10,7 @@
 
 ---
 
-👋 Want to add a link to the list? Read the [contribution guidelines](CONTRIBUTING.md) and open a PR to add it to the list! 
+👋 Want to add a link to the list? Read the [contribution guidelines](CONTRIBUTING.md) and open a PR to add it to the list!
 
 ## Contents
 
@@ -30,6 +30,7 @@
 * 🚀 [Java - cherfia/jotenberg](https://github.com/cherfia/jotenberg)
 * 🚀 [Kotlin - marrek13/kotenberg](https://github.com/marrek13/kotenberg)
 * 🚀 [Go - dcaraxes/gotenberg-go-client](https://github.com/dcaraxes/gotenberg-go-client)
+* 🚀 [Python - stumpylog/gotenberg-client](https://github.com/stumpylog/gotenberg-client)
 * [JavaScript/TypeScript - yumauri/gotenberg-js-client](https://github.com/yumauri/gotenberg-js-client) - Gotenberg **6.x** ⚠️
 * [Go - thecodingmachine/gotenberg-go-client](https://github.com/thecodingmachine/gotenberg-go-client) - Gotenberg **6.x** ⚠️
 * [PHP - thecodingmachine/gotenberg-php-client](https://github.com/thecodingmachine/gotenberg-php-client) - Gotenberg **6.x** ⚠️
