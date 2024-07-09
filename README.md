@@ -51,7 +51,7 @@
 * [Corteza](https://cortezaproject.org/) - a free, open-source, Low Code platform for building your organisation’s key applications. They use [Gotenberg](https://docs.cortezaproject.org/corteza-docs/2021.9/devops-guide/extension-requirements/pdf-renderer.html) for PDF rendering.
 * [papihack/document-templating-service](https://github.com/PapiHack/document-templating-service) - a lightweight microservice for processing your documents, powered by a templating engine for injecting variables defined in it and use Gotenberg for PDF rendering.
 * [ShipSaaS/DocKing](https://github.com/shipsaas/docking) - an open-source microservice to manage document templates & render PDFs for your apps.
-* [Cassiopeia](https://www.cassiopeia-api.cloud) - an micro SaaS API that helps to streamline the creation of PDF documents for your application, offering features like merging and variable data embedding. It's a simple and reliable all-in-one solution for generating invoices, offers, reports, serial letters, ...
+* [Cassiopeia](https://www.cassiopeia-api.cloud) - a micro SaaS API that helps to streamline the creation of PDF documents for your application, offering features like merging and variable data embedding. It's a simple and reliable all-in-one solution for generating invoices, offers, reports, serial letters, etc.
 * [Pimcore](https://github.com/pimcore/pimcore) - an open-source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce.
 
 ## Resources
