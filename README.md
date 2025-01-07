@@ -22,7 +22,7 @@
 ## Clients
 
 * 🚀 [PHP - gotenberg/gotenberg-php](https://github.com/gotenberg/gotenberg-php)
-* 🚀 [PHP/Symfony - sensiolabs/gotenberg-bundle](https://github.com/sensiolabs/gotenberg-bundle)
+* 🚀 [PHP/Symfony - sensiolabs/gotenberg-bundle](https://github.com/sensiolabs/GotenbergBundle)
 * 🚀 [Deno - EC-Nordbund/gotenberg](https://github.com/EC-Nordbund/gotenberg)
 * 🚀 [TypeScript - cherfia/chromiumly](https://github.com/cherfia/chromiumly)
 * 🚀 [C# - ChangemakerStudios/GotenbergSharpApiClient](https://github.com/ChangemakerStudios/GotenbergSharpApiClient)
