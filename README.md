@@ -23,15 +23,15 @@
 
 * 🚀 [PHP - gotenberg/gotenberg-php](https://github.com/gotenberg/gotenberg-php)
 * 🚀 [PHP/Symfony - sensiolabs/gotenberg-bundle](https://github.com/sensiolabs/GotenbergBundle)
-* 🚀 [Deno - EC-Nordbund/gotenberg](https://github.com/EC-Nordbund/gotenberg)
 * 🚀 [TypeScript - cherfia/chromiumly](https://github.com/cherfia/chromiumly)
 * 🚀 [C# - ChangemakerStudios/GotenbergSharpApiClient](https://github.com/ChangemakerStudios/GotenbergSharpApiClient)
-* 🚀 [Ruby - sanzstez/gotenberg-ruby](https://github.com/sanzstez/gotenberg-ruby)
-* 🚀 [Ruby - jbd0101/ruby-gotenberg-client](https://github.com/jbd0101/ruby-gotenberg-client)
-* 🚀 [Java - cherfia/jotenberg](https://github.com/cherfia/jotenberg)
-* 🚀 [Kotlin - marrek13/kotenberg](https://github.com/marrek13/kotenberg)
-* 🚀 [Go - starwalkn/gotenberg-go-client](https://github.com/starwalkn/gotenberg-go-client)
 * 🚀 [Python - stumpylog/gotenberg-client](https://github.com/stumpylog/gotenberg-client)
+* 🚀 [Java - cherfia/jotenberg](https://github.com/cherfia/jotenberg)
+* 🚀 [Go - starwalkn/gotenberg-go-client](https://github.com/starwalkn/gotenberg-go-client)
+* 🚀 [Ruby - sanzstez/gotenberg-ruby](https://github.com/sanzstez/gotenberg-ruby)
+* 🚀 [Kotlin - marrek13/kotenberg](https://github.com/marrek13/kotenberg)
+* [Deno - EC-Nordbund/gotenberg](https://github.com/EC-Nordbund/gotenberg)
+* [Ruby - jbd0101/ruby-gotenberg-client](https://github.com/jbd0101/ruby-gotenberg-client)
 * [JavaScript/TypeScript - yumauri/gotenberg-js-client](https://github.com/yumauri/gotenberg-js-client) - Gotenberg **6.x** ⚠️
 * [Go - thecodingmachine/gotenberg-go-client](https://github.com/thecodingmachine/gotenberg-go-client) - Gotenberg **6.x** ⚠️
 * [PHP - thecodingmachine/gotenberg-php-client](https://github.com/thecodingmachine/gotenberg-php-client) - Gotenberg **6.x** ⚠️
