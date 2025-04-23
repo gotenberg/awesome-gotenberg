@@ -30,6 +30,7 @@
 * 🚀 [Go - starwalkn/gotenberg-go-client](https://github.com/starwalkn/gotenberg-go-client)
 * 🚀 [Ruby - sanzstez/gotenberg-ruby](https://github.com/sanzstez/gotenberg-ruby)
 * 🚀 [Kotlin - marrek13/kotenberg](https://github.com/marrek13/kotenberg)
+* 🚀 [Swift - thoven87/gotenberg-kit](https://github.com/thoven87/gotenberg-kit)
 * [Deno - EC-Nordbund/gotenberg](https://github.com/EC-Nordbund/gotenberg)
 * [Ruby - jbd0101/ruby-gotenberg-client](https://github.com/jbd0101/ruby-gotenberg-client)
 * [JavaScript/TypeScript - yumauri/gotenberg-js-client](https://github.com/yumauri/gotenberg-js-client) - Gotenberg **6.x** ⚠️
