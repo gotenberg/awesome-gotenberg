@@ -28,6 +28,7 @@
 * 🚀 [Python - stumpylog/gotenberg-client](https://github.com/stumpylog/gotenberg-client)
 * 🚀 [Java - cherfia/jotenberg](https://github.com/cherfia/jotenberg)
 * 🚀 [Go - starwalkn/gotenberg-go-client](https://github.com/starwalkn/gotenberg-go-client)
+* 🚀 [Go - nativebpm/gotenberg-client (Built using only the Go standard library)](https://github.com/nativebpm/gotenberg-client)
 * 🚀 [Ruby - sanzstez/gotenberg-ruby](https://github.com/sanzstez/gotenberg-ruby)
 * 🚀 [Kotlin - marrek13/kotenberg](https://github.com/marrek13/kotenberg)
 * 🚀 [Swift - thoven87/gotenberg-kit](https://github.com/thoven87/gotenberg-kit)
