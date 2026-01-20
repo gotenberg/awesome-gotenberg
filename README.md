@@ -23,6 +23,7 @@
 
 * 🚀 [PHP - gotenberg/gotenberg-php](https://github.com/gotenberg/gotenberg-php)
 * 🚀 [PHP/Symfony - sensiolabs/gotenberg-bundle](https://github.com/sensiolabs/GotenbergBundle)
+* [PHP/Laravel - igeek/pdfservice](https://github.com/coolamit/igeek-pdfservice) - Laravel package for generating PDFs using Gotenberg. Convert Blade views or raw HTML to PDF with support for headers, footers, custom page sizes, and more.
 * 🚀 [TypeScript - cherfia/chromiumly](https://github.com/cherfia/chromiumly)
 * 🚀 [C# - ChangemakerStudios/GotenbergSharpApiClient](https://github.com/ChangemakerStudios/GotenbergSharpApiClient)
 * 🚀 [Python - stumpylog/gotenberg-client](https://github.com/stumpylog/gotenberg-client)
@@ -40,7 +41,6 @@
 * [PHP - spacetab-io/gotenbserg-sdk-php](https://github.com/spacetab-io/gotenberg-sdk-php) - Gotenberg **6.x** ⚠️
 * [Word Document Template to PDF - EC-Nordbund/docx-templates-to-pdf](https://github.com/EC-Nordbund/docx-templates-to-pdf) - Gotenberg **6.x** ⚠️
 * [Java Cookbook](https://gist.github.com/rsoika/0cae2fa63a565ec4698bce13f243118d)
-* [PHP/Laravel - igeek/pdfservice](https://github.com/coolamit/igeek-pdfservice) - Laravel package for generating PDFs using Gotenberg. Convert Blade views or raw HTML to PDF with support for headers, footers, custom page sizes, and more.
 
 ## Modules
 
