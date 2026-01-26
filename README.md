@@ -28,6 +28,7 @@
 * 🚀 [C# - ChangemakerStudios/GotenbergSharpApiClient](https://github.com/ChangemakerStudios/GotenbergSharpApiClient)
 * 🚀 [Python - stumpylog/gotenberg-client](https://github.com/stumpylog/gotenberg-client)
 * 🚀 [Java - cherfia/jotenberg](https://github.com/cherfia/jotenberg)
+* 🚀 [Java/Spring - ooraini/gotenberg-spring](https://github.com/ooraini/gotenberg-spring)
 * 🚀 [Go - starwalkn/gotenberg-go-client](https://github.com/starwalkn/gotenberg-go-client)
 * 🚀 [Go - nativebpm/gotenberg (Stream-first: Built on httpclient for efficient multipart uploads)](https://github.com/nativebpm/gotenberg)
 * 🚀 [Ruby - sanzstez/gotenberg-ruby](https://github.com/sanzstez/gotenberg-ruby)
