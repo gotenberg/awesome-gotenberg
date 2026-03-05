@@ -18,6 +18,7 @@
 * [Modules](#modules)
 * [Applications](#applications)
 * [Resources](#resources)
+* [YouTube](#youtube)
 
 ## Clients
 
@@ -64,7 +65,13 @@
 
 * [Gotenberg's documentation](https://gotenberg.dev)
 * [Gotenberg's GitHub organization](https://github.com/gotenberg)
-* [Author's Bluesky](https://gulnap.bsky.social)
 * [Grafikart's tutorial](https://grafikart.fr/tutoriels/gotenberg-php-pdf-1157) 🇫🇷 - Gotenberg **5.x** ⚠️
 * [ardas-it.com - How to Preview Document or File in a Browser for SaaS](https://ardas-it.com/how-to-preview-document-or-file-in-a-browser-for-saas)
 * [MaikuMori/helm-charts](https://github.com/MaikuMori/helm-charts) - A Gotenberg helm chart, also available on [ArtifactHub](https://artifacthub.io/packages/helm/maikumori/gotenberg)
+
+## YouTube
+
+* [GotenbergBundle : LA nouvelle référence pour le PDF en Symfony](https://youtu.be/BwH2APvOb2U?si=hGV5magNtfueE8Ih) 🇫🇷
+* [Générer des PDF avec Gotenberg et n8n gratuitement et tout ça, ultra simplement !](https://youtu.be/AgMduoJPOgU?si=X_8Bvdua4S2vMcbO) 🇫🇷
+* [Generate PDFs on n8n for FREE using Gotenberg (SEO Report with AI Example)](https://youtu.be/gl1zdyvqHiQ?si=Tw_deY_z_8WAB_HG)
+* [Generate PDFs in n8n with Gotenberg (For Free!)](https://youtu.be/bo15xdjXf1Y?si=J-FA_YmJnvHkk_FA)
