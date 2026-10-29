@@ -59,6 +59,7 @@
 * [ShipSaaS/DocKing](https://github.com/shipsaas/docking) - an open-source microservice to manage document templates & render PDFs for your apps.
 * [Cassiopeia](https://www.cassiopeia-api.cloud) - a micro SaaS API that helps to streamline the creation of PDF documents for your application, offering features like merging and variable data embedding. It's a simple and reliable all-in-one solution for generating invoices, offers, reports, serial letters, etc.
 * [Pimcore](https://github.com/pimcore/pimcore) - an open-source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce.
+* [Gotenui](https://github.com/nktnet1/gotenui) - Web interface for PDF conversion and processing powered by Gotenberg.
 
 ## Resources
 
