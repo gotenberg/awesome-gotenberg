@@ -22,20 +22,22 @@
 
 ## Clients
 
+🚀 supports Gotenberg 9. ⚠️ built for an earlier version of Gotenberg.
+
 * 🚀 [PHP - gotenberg/gotenberg-php](https://github.com/gotenberg/gotenberg-php)
-* 🚀 [PHP/Symfony - sensiolabs/gotenberg-bundle](https://github.com/sensiolabs/GotenbergBundle)
-* 🚀 [PHP/Laravel - spatie/laravel-pdf](https://spatie.be/docs/laravel-pdf/v2/introduction) - Provides a Gotenberg driver.
-* 🚀 [PHP/Laravel - igeek/pdfservice](https://github.com/coolamit/igeek-pdfservice)
-* 🚀 [TypeScript - cherfia/chromiumly](https://github.com/cherfia/chromiumly)
-* 🚀 [C# - ChangemakerStudios/GotenbergSharpApiClient](https://github.com/ChangemakerStudios/GotenbergSharpApiClient)
-* 🚀 [Python - stumpylog/gotenberg-client](https://github.com/stumpylog/gotenberg-client)
-* 🚀 [Java - cherfia/jotenberg](https://github.com/cherfia/jotenberg)
-* 🚀 [Java/Spring - ooraini/gotenberg-spring](https://github.com/ooraini/gotenberg-spring)
-* 🚀 [Go - starwalkn/gotenberg-go-client](https://github.com/starwalkn/gotenberg-go-client)
-* 🚀 [Go - nativebpm/gotenberg (Stream-first: Built on httpclient for efficient multipart uploads)](https://github.com/nativebpm/gotenberg)
-* 🚀 [Ruby - sanzstez/gotenberg-ruby](https://github.com/sanzstez/gotenberg-ruby)
-* 🚀 [Kotlin - marrek13/kotenberg](https://github.com/marrek13/kotenberg)
-* 🚀 [Swift - thoven87/gotenberg-kit](https://github.com/thoven87/gotenberg-kit)
+* [PHP/Symfony - sensiolabs/gotenberg-bundle](https://github.com/sensiolabs/GotenbergBundle) - Gotenberg **8.x** ⚠️
+* [PHP/Laravel - spatie/laravel-pdf](https://spatie.be/docs/laravel-pdf/v2/introduction) - Provides a Gotenberg driver. - Gotenberg **8.x** ⚠️
+* [PHP/Laravel - igeek/pdfservice](https://github.com/coolamit/igeek-pdfservice) - Gotenberg **8.x** ⚠️
+* [TypeScript - cherfia/chromiumly](https://github.com/cherfia/chromiumly) - Gotenberg **8.x** ⚠️
+* [C# - ChangemakerStudios/GotenbergSharpApiClient](https://github.com/ChangemakerStudios/GotenbergSharpApiClient) - Gotenberg **8.x** ⚠️
+* [Python - stumpylog/gotenberg-client](https://github.com/stumpylog/gotenberg-client) - Gotenberg **8.x** ⚠️
+* [Java - cherfia/jotenberg](https://github.com/cherfia/jotenberg) - Gotenberg **8.x** ⚠️
+* [Java/Spring - ooraini/gotenberg-spring](https://github.com/ooraini/gotenberg-spring) - Gotenberg **8.x** ⚠️
+* [Go - starwalkn/gotenberg-go-client](https://github.com/starwalkn/gotenberg-go-client) - Gotenberg **8.x** ⚠️
+* [Go - nativebpm/gotenberg (Stream-first: Built on httpclient for efficient multipart uploads)](https://github.com/nativebpm/gotenberg) - Gotenberg **8.x** ⚠️
+* [Ruby - sanzstez/gotenberg-ruby](https://github.com/sanzstez/gotenberg-ruby) - Gotenberg **8.x** ⚠️
+* [Kotlin - marrek13/kotenberg](https://github.com/marrek13/kotenberg) - Gotenberg **8.x** ⚠️
+* [Swift - thoven87/gotenberg-kit](https://github.com/thoven87/gotenberg-kit) - Gotenberg **8.x** ⚠️
 * [Deno - EC-Nordbund/gotenberg](https://github.com/EC-Nordbund/gotenberg)
 * [Ruby - jbd0101/ruby-gotenberg-client](https://github.com/jbd0101/ruby-gotenberg-client)
 * [JavaScript/TypeScript - yumauri/gotenberg-js-client](https://github.com/yumauri/gotenberg-js-client) - Gotenberg **6.x** ⚠️
@@ -47,7 +49,7 @@
 
 ## Modules
 
-* [Gotenberg with a Ghostscript PDF engine](https://github.com/Vrex123/gotenberg-ghostscript).
+* [Gotenberg with a Ghostscript PDF engine](https://github.com/Vrex123/gotenberg-ghostscript) - Gotenberg **8.x** ⚠️, built on the `PdfEngine` interface Gotenberg 9 removed.
 
 ## Applications
 
