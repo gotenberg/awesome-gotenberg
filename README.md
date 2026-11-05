@@ -26,7 +26,7 @@
 
 * 🚀 [PHP - gotenberg/gotenberg-php](https://github.com/gotenberg/gotenberg-php)
 * [PHP/Symfony - sensiolabs/gotenberg-bundle](https://github.com/sensiolabs/GotenbergBundle) - Gotenberg **8.x** ⚠️
-* [PHP/Laravel - spatie/laravel-pdf](https://spatie.be/docs/laravel-pdf/v2/introduction) - Provides a Gotenberg driver. - Gotenberg **8.x** ⚠️
+* [PHP/Laravel - spatie/laravel-pdf](https://spatie.be/docs/laravel-pdf/v2/introduction) - Provides a Gotenberg driver. Gotenberg **8.x** ⚠️
 * [PHP/Laravel - igeek/pdfservice](https://github.com/coolamit/igeek-pdfservice) - Gotenberg **8.x** ⚠️
 * [TypeScript - cherfia/chromiumly](https://github.com/cherfia/chromiumly) - Gotenberg **8.x** ⚠️
 * [C# - ChangemakerStudios/GotenbergSharpApiClient](https://github.com/ChangemakerStudios/GotenbergSharpApiClient) - Gotenberg **8.x** ⚠️
