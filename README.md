@@ -22,7 +22,9 @@
 
 ## Clients
 
-🚀 supports Gotenberg 9. ⚠️ built for an earlier version of Gotenberg.
+> 🚀 supports Gotenberg 9.
+>
+> ⚠️ built for an earlier version of Gotenberg.
 
 * 🚀 [PHP - gotenberg/gotenberg-php](https://github.com/gotenberg/gotenberg-php)
 * [PHP/Symfony - sensiolabs/gotenberg-bundle](https://github.com/sensiolabs/GotenbergBundle) - Gotenberg **8.x** ⚠️
