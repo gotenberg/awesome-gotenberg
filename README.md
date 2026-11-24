@@ -22,26 +22,30 @@
 
 ## Clients
 
-> 🚀 supports Gotenberg 9.
->
-> ⚠️ built for an earlier version of Gotenberg.
+### Supports version 9
 
-* 🚀 [PHP - gotenberg/gotenberg-php](https://github.com/gotenberg/gotenberg-php)
+* [PHP - gotenberg/gotenberg-php](https://github.com/gotenberg/gotenberg-php)
+* [C# - ChangemakerStudios/GotenbergSharpApiClient](https://github.com/ChangemakerStudios/GotenbergSharpApiClient)
+* [Java - cherfia/jotenberg](https://github.com/cherfia/jotenberg)
+* [TypeScript - cherfia/chromiumly](https://github.com/cherfia/chromiumly)
+
+### Supports up to version 8
+
 * [PHP/Symfony - sensiolabs/gotenberg-bundle](https://github.com/sensiolabs/GotenbergBundle) - Gotenberg **8.x** ⚠️
 * [PHP/Laravel - spatie/laravel-pdf](https://spatie.be/docs/laravel-pdf/v2/introduction) - Provides a Gotenberg driver. Gotenberg **8.x** ⚠️
 * [PHP/Laravel - igeek/pdfservice](https://github.com/coolamit/igeek-pdfservice) - Gotenberg **8.x** ⚠️
-* [TypeScript - cherfia/chromiumly](https://github.com/cherfia/chromiumly) - Gotenberg **8.x** ⚠️
-* [C# - ChangemakerStudios/GotenbergSharpApiClient](https://github.com/ChangemakerStudios/GotenbergSharpApiClient) - Gotenberg **8.x** ⚠️
 * [Python - stumpylog/gotenberg-client](https://github.com/stumpylog/gotenberg-client) - Gotenberg **8.x** ⚠️
-* [Java - cherfia/jotenberg](https://github.com/cherfia/jotenberg) - Gotenberg **8.x** ⚠️
 * [Java/Spring - ooraini/gotenberg-spring](https://github.com/ooraini/gotenberg-spring) - Gotenberg **8.x** ⚠️
 * [Go - starwalkn/gotenberg-go-client](https://github.com/starwalkn/gotenberg-go-client) - Gotenberg **8.x** ⚠️
 * [Go - nativebpm/gotenberg (Stream-first: Built on httpclient for efficient multipart uploads)](https://github.com/nativebpm/gotenberg) - Gotenberg **8.x** ⚠️
 * [Ruby - sanzstez/gotenberg-ruby](https://github.com/sanzstez/gotenberg-ruby) - Gotenberg **8.x** ⚠️
 * [Kotlin - marrek13/kotenberg](https://github.com/marrek13/kotenberg) - Gotenberg **8.x** ⚠️
 * [Swift - thoven87/gotenberg-kit](https://github.com/thoven87/gotenberg-kit) - Gotenberg **8.x** ⚠️
-* [Deno - EC-Nordbund/gotenberg](https://github.com/EC-Nordbund/gotenberg)
-* [Ruby - jbd0101/ruby-gotenberg-client](https://github.com/jbd0101/ruby-gotenberg-client)
+* [Deno - EC-Nordbund/gotenberg](https://github.com/EC-Nordbund/gotenberg) - Gotenberg **8.x** ⚠️
+* [Ruby - jbd0101/ruby-gotenberg-client](https://github.com/jbd0101/ruby-gotenberg-client) - Gotenberg **8.x** ⚠️
+
+### Older Gotenberg versions
+
 * [JavaScript/TypeScript - yumauri/gotenberg-js-client](https://github.com/yumauri/gotenberg-js-client) - Gotenberg **6.x** ⚠️
 * [Go - thecodingmachine/gotenberg-go-client](https://github.com/thecodingmachine/gotenberg-go-client) - Gotenberg **6.x** ⚠️
 * [PHP - thecodingmachine/gotenberg-php-client](https://github.com/thecodingmachine/gotenberg-php-client) - Gotenberg **6.x** ⚠️
